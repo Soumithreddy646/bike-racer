@@ -1,1 +1,1 @@
-# bike-racer
+# quadratic equations
